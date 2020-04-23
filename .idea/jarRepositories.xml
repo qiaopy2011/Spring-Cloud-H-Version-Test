@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="1cce9efd-ed4d-4b1d-b481-69c19a92aec0" />
+      <option name="name" value="1cce9efd-ed4d-4b1d-b481-69c19a92aec0" />
+      <option name="url" value="https://maven.aliyun.com/nexus/content/respositories/central/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="04faa82a-691f-4b40-9b99-1da462aab0db" />
+      <option name="name" value="04faa82a-691f-4b40-9b99-1da462aab0db" />
+      <option name="url" value="https://mirrors.ibiblio.org/pub/mirrors/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="3210220e-624f-4fad-bb24-215ab040ff14" />
+      <option name="name" value="3210220e-624f-4fad-bb24-215ab040ff14" />
+      <option name="url" value="https://maven.net.cn/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="a9df9bf5-89e6-4a0f-8826-a701e420970e" />
+      <option name="name" value="a9df9bf5-89e6-4a0f-8826-a701e420970e" />
+      <option name="url" value="https://maven.aliyun.com/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="8220783d-b9ef-43db-8b03-b91bac112e0a" />
+      <option name="name" value="8220783d-b9ef-43db-8b03-b91bac112e0a" />
+      <option name="url" value="https://repo2.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/repositories/central/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>
